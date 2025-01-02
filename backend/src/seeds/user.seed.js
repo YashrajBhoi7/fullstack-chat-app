@@ -38,18 +38,18 @@ const seedUsers = [
     profilePic: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
+    email: "daniel.rodriguez@example.com",
+    fullName: "Daniel Rodriguez",
+    password: "123456",
+    profilePic: "https://randomuser.me/api/portraits/men/7.jpg",
+  },
+  {
     email: "alexander.martin@example.com",
     fullName: "Alexander Martin",
     password: "123456",
     profilePic: "https://randomuser.me/api/portraits/men/6.jpg",
   },
   
-  {
-    email: "daniel.rodriguez@example.com",
-    fullName: "Daniel Rodriguez",
-    password: "123456",
-    profilePic: "https://randomuser.me/api/portraits/men/7.jpg",
-  },
   // Female Users
   {
     email: "emma.thompson@example.com",
